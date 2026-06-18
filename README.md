@@ -22,9 +22,7 @@ artificial-intelligence-foundations/
 ├── sqrt_agent.py
 ├── search_algorithms.py
 │
-│
-└── report/
-    └── project_report.md
+└── project_report.md
 ```
 
 ## Techniques Demonstrated
