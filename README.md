@@ -22,8 +22,6 @@ artificial-intelligence-foundations/
 ├── sqrt_agent.py
 ├── search_algorithms.py
 │
-├── data/
-│   └── README.md
 │
 └── docs/
     └── project_report.md
